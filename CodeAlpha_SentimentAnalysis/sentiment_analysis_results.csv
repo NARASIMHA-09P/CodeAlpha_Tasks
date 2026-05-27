@@ -1,0 +1,21 @@
+Review,Sentiment,Polarity
+This product is amazing! Best purchase I ever made. Works perfectly.,Positive,0.9166666666666666
+Absolutely love it! Fast shipping and great quality. Will buy again.,Positive,0.5416666666666666
+Excellent product! exceeded my expectations. Highly recommend.,Positive,0.58
+Good value for money. Works as described. Happy with my purchase.,Positive,0.75
+Five stars! Very satisfied with this item. Great customer service.,Positive,0.7250000000000001
+This is fantastic! Really helped me solve my problem. Worth every penny.,Positive,0.3333333333333333
+Love it! Very easy to use and setup was simple. Great design.,Positive,0.4970833333333334
+Perfect! Exactly what I needed. Arrived on time and in good condition.,Positive,0.65
+Awesome product! Very durable and well made. Would buy again.,Positive,0.6
+Great quality! Works like a charm. Very happy customer.,Positive,1.0
+Terrible product! Broke after 2 days. Waste of money.,Negative,-0.6
+Very disappointed. Doesn't work as advertised. Poor quality.,Negative,-0.6875
+Worst purchase ever! Customer service was no help. Avoid this product.,Negative,-1.0
+Cheap material and broke easily. Not worth the price. Very unhappy.,Negative,-0.17666666666666667
+Defective item received. Return process was difficult. Very frustrating.,Negative,-0.51
+It's okay. Does the job but nothing special.,Positive,0.4285714285714286
+Average product. Works but has some issues. Fine for the price.,Positive,0.13333333333333336
+"Not bad, not great. Gets the job done. Might buy again.",Neutral,-0.02500000000000005
+"Decent product. Some good features, some bad. It's fine.",Positive,0.14583333333333337
+Mixed feelings. Works sometimes but has glitches. It's acceptable.,Neutral,0.0
