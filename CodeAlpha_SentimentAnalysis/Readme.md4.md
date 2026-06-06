@@ -28,4 +28,4 @@ Analyzed 20 Amazon product reviews to classify them as Positive, Negative, or Ne
 - `sentiment_pie.png` - Distribution chart
 
 ## Author
-[Your Name]
+[D.V.NARASIMHA]
