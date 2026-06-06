@@ -50,4 +50,4 @@ Titanic passenger data from Kaggle (891 passengers, 12 features)
 - `titanic_cleaned.csv` - Cleaned dataset (after handling missing values)
 
 ## Author
-[Your Name]
+[D.V.NARASIMHA]
